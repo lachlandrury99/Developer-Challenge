@@ -1,5 +1,8 @@
 # Developer-Challenge
 
+Requires requests python module
+> pip install requests
+
 Run program by running
 > python3 main.py input_file.csv output_file.csv
 
